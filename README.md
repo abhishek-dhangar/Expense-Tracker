@@ -6,7 +6,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
