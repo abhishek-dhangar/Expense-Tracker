@@ -2,8 +2,8 @@
 
 > A Full-Stack Expense Management Application built with **Spring Boot**, **Java**, **MySQL**, **HTML**, **CSS**, and **JavaScript** to help users efficiently track and manage their daily income and expenses.
 
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-brightgreen)
+![Java](https://img.shields.io/badge/Java-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-brightgreen)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![Maven](https://img.shields.io/badge/Maven-Build-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -52,7 +52,7 @@ The project follows a clean layered architecture and demonstrates the implementa
 
 ### Backend
 
-* Java 17
+* Java 
 * Spring Boot
 * Spring Web
 * Spring Data JPA
